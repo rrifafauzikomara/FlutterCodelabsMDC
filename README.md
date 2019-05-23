@@ -1,8 +1,14 @@
-# flutter_codelabs_mdc
+# Flutter Codelabs MDC from 101 - 104
 
 A new Flutter application.
 
 ## Getting Started
+
+![Login](https://github.com/rrifafauzikomara/flutter_codelabs_mdc/blob/master/login.png "Login")
+
+![Home](https://github.com/rrifafauzikomara/flutter_codelabs_mdc/blob/master/home.png "Home")
+
+![Menu](https://github.com/rrifafauzikomara/flutter_codelabs_mdc/blob/master/menu.png "Menu")
 
 This project is a starting point for a Flutter application.
 
